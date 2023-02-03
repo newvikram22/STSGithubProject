@@ -1,0 +1,22 @@
+{
+  "referenceID": 1234,
+  "businessName": "businessName",
+  "ParamList": [{
+    "paramId": "1",
+    "EMail": "email1@gmil.com",
+    "Conref": "first",
+    "Value": "A"
+  },
+ {
+    "paramId": "2",
+    "EMail": "email2@gmil.com",
+    "Conref": "second",
+    "Value": "B"
+  },
+ {
+    "paramId": "3",
+    "EMail": "email3@gmil.com",
+    "Conref": "third",
+    "Value": "C"
+  }]
+}
